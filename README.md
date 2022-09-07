@@ -64,6 +64,6 @@ git push
 
 6. Make sure that `PROJECT NAME` does not conflict with others and click `Deploy`
 
-7. After the deployment is complete, you can visit `https://%PROJECT_NAME%.vercel.app` in the WAN to view the webpage. (where `%PROJECT_NAME%` is the `PROJECT NAME` just modified under `Configure Project`)
+7. After the deployment is complete, you can visit `https://%PROJECT_NAME%.ver`cel.app in the WAN to view the webpage. (where `%PROJECT_NAME%` is the `PROJECT NAME` just modified under `Configure Project`)
 
 *Good luck!*
